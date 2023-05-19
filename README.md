@@ -1,12 +1,12 @@
 <div id=" header" align="center">
-    <img src="[https://www.freepik.es/foto-gratis/tecnologia-fondo-azul-poligonal-resumen-poli-conectado-puntos-lineas_18799845.htm#query=redes%20neuronales&position=13&from_view=search&track=ais](https://img.freepik.com/foto-gratis/tecnologia-fondo-azul-poligonal-resumen-poli-conectado-puntos-lineas_90220-494.jpg?w=1380&t=st=1684489378~exp=1684489978~hmac=c249a45d3d7c5c1de66d99ab98bc1c24de94991a88053b8e648a2b827d3df78a)" width="200"/>
+    <img src="https://img.freepik.com/foto-gratis/tecnologia-fondo-azul-poligonal-resumen-poli-conectado-puntos-lineas_90220-494.jpg?w=1380&t=st=1684489378~exp=1684489978~hmac=c249a45d3d7c5c1de66d99ab98bc1c24de94991a88053b8e648a2b827d3df78a" width="200"/>
     <h1 align="center">Hi 👋, I'm David Peña</h1>
     <h3 align="center">I am passionate about linguistics and communication, language technologies and natural language processing.
         I currently live in Spain and I work to be more and more linked to the world of technology.</h3>
 </div>
 <div>
-    <a href="www.linkedin.com/in/davidpdemiguel" rel="nofollow">
-<img alt="LinkedIn" title="Linkedin" align="center src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+    <a href="www.linkedin.com/in/davidpdemiguel"  rel="nofollow">
+<img alt="LinkedIn" title="Linkedin" src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
     </a>
 </div>
 
@@ -14,7 +14,7 @@
 
 👨‍💻 About Me :
 
-- 💬 Ask me about **NLP, AI, Communication, UX**
+- 💬 Ask me about **NLP, AI, Communication and UX**
 
 - 📫 How to reach me **davidpedem@gmail.com**
 
