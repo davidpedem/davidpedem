@@ -1,5 +1,5 @@
 <div id=" header" align="center">
-    <img src="https://giphy.com/gifs/botisimo-streamer-streaming-boti-Ai0FCXmNLpfhQNs0af/giphy.gif" width="200"/>
+    <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200"
     <h1 align="center">Hi 👋, I'm David Peña</h1>
     <h3 align="center">I am passionate about linguistics and communication, language technologies and natural language processing.
         I currently live in Spain and I work to be more and more linked to the world of technology.</h3>
