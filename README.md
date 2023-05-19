@@ -1,6 +1,6 @@
 <div id=" header" align="center">
-    <img src="https://img.freepik.com/foto-gratis/tecnologia-fondo-azul-poligonal-resumen-poli-conectado-puntos-lineas_90220-494.jpg?w=1060&t=st=1684490289~exp=1684490889~hmac=9591bb679bd692de224ade76731199906baa2a98048bed86cd9eb7259885bb6d" width="200" height="235"
-    <h1 align="center">Hi 👋, I'm David Peña</h1>
+    <img src="https://img.freepik.com/foto-gratis/tecnologia-fondo-azul-poligonal-resumen-poli-conectado-puntos-lineas_90220-494.jpg?w=1060&t=st=1684490289~exp=1684490889~hmac=9591bb679bd692de224ade76731199906baa2a98048bed86cd9eb7259885bb6d" width="500" 
+<h1 align="center">Hi 👋, I'm David Peña</h1>
     <h3 align="center">I am passionate about linguistics and communication, language technologies and natural language processing.
         I currently live in Spain and I work to be more and more linked to the world of technology.</h3>
 </div>
