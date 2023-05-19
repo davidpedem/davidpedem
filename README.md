@@ -1,6 +1,6 @@
 <div id=" header" align="center">
-    <img src="https://www.segurilatam.com/wp-content/uploads/sites/5/2020/05/apreton-de-manos-digital.jpg" width="800"
-<h1 align="center">Hi 👋, I'm David Peña</h1>
+    <img src="https://www.segurilatam.com/wp-content/uploads/sites/5/2020/05/apreton-de-manos-digital.jpg" width="400"/>
+    <h1 align="center">Hi 👋, I'm David Peña</h1>
     <h3 align="center">I am passionate about linguistics and communication, language technologies and natural language processing.
         I currently live in Spain and I work to be more and more linked to the world of technology.</h3>
 </div>
