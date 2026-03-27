@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Peña</h1>
-<h3 align="center">I am passionate about data analysitcs, data science and business analytics. I currently live in Belgium and I work to be more and more linked to the world of data.</h3>
+<h3 align="center">I am passionate about data analysis, data science and business analytics. I currently live in Belgium and I work to be more and more linked to the world of data.</h3>
 
 - 🔭 I’m currently studying at [Université Catholique de Louvain](https://www.uclouvain.be/en/)
 
