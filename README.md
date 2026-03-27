@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm David Peña</h1>
 <h3 align="center">I am passionate about linguistics and communication, language technologies and natural language processing. I currently live in Spain and I work to be more and more linked to the world of technology.</h3>
 
-- 🔭 I’m currently working on [Nuclio Digital School](https://nuclio.school/)
+- 🔭 I’m currently studying at [Université Catholique de Louvain](https://www.uclouvain.be/en/)
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **NLP, AI, Communication and UX**
-
-- 📫 How to reach me **davidpedem@gmail.com**
+- 💬 Ask me about **Data Science, Data Analyis, NLP, AI and Communication**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
